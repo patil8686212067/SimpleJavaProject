@@ -4,6 +4,7 @@ public class Welcome{
 System.out.println("This is input of java program");
 System.out.println("This is output of java program");
 System.out.println("The Current Date ::"+ new Date());
+System.out.println("Hello jenkin i amcoming");
 
   }
 
