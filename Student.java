@@ -1,10 +1,8 @@
 public class Student{
-    public Student()
-    {
-        System.out.println("creating Object for student class");
-
+    public static void main(String[] args) {
+        sayHello();
     }
-    public String sayHello(){
+    public  static String sayHello(){
         return "Hello I am from student class";
     }
 }
